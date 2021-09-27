@@ -25,4 +25,4 @@ open(){
 }
 
 }
-export default new flipkartPage();
+export default new flipkartPage(); // flipkar page
